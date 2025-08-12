@@ -5,17 +5,6 @@
   I refactor & build production-ready UIs with clean architecture and zero-regression mindset.
 </p>
 
-<p align="center">
-  <a href="https://nextjs.org">![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff)</a>
-  <a href="https://www.typescriptlang.org">![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)</a>
-  <a href="https://react-hook-form.com/">![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-000?logo=reacthookform&logoColor=EC5990)</a>
-  <a href="https://zod.dev">![Zod](https://img.shields.io/badge/Zod-3E67B1)</a>
-  <a href="https://www.radix-ui.com/">![Radix UI](https://img.shields.io/badge/Radix%20UI-161618)</a>
-  <a href="https://tailwindcss.com">![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=fff)</a>
-  <a href="https://tanstack.com/query/latest">![TanStack Query](https://img.shields.io/badge/TanStack%20Query-000)</a>
-  <a href="https://firebase.google.com/">![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000)</a>
-</p>
-
 ---
 
 ### About me
